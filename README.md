@@ -45,7 +45,6 @@ Leveraged knowledge: C++, Qt Framework<br>
 <img align="left" alt="Java" width="26px" src="https://github.com/github/explore/blob/main/topics/java/java.png"/>
 <img align="left" alt="F sharp" width="26px" src="https://github.com/github/explore/blob/main/topics/fsharp/fsharp.png"/>
 <img align="left" alt="Python" width="26px" src="https://github.com/github/explore/blob/main/topics/python/python.png"/>
-<img align="left" alt="OPL" width="26px" src="https://github.com/github/explore/blob/main/topics/opl/opl.png"/>
 <img align="left" alt="Matlab" width="26px" src="https://github.com/github/explore/blob/main/topics/matlab/matlab.png"/><br>
 
 ### Technologies ###
