@@ -76,7 +76,7 @@ Leveraged knowledge: C++, Qt Framework<br>
 [instagram]: https://www.instagram.com/filippo.brugnolaro
 [telegram]: https://t.me/filippo_brugnolaro
 [leetcode]: https://leetcode.com/filippobrugnolaro/
-[resume]: https://filippobrugnolaro.github.io/resources/filippo_brugnolaro_cv_04_12_23.pdf
+[resume]: https://filippobrugnolaro.github.io/resources/filippo_brugnolaro_cv.pdf
 
 ---
 
