@@ -1,10 +1,10 @@
 <h1 align="center">Hi there!👋🏻<br>I am Filippo Brugnolaro</h1>
-<h3>Computer Science Student</h3>
+<h3>Front-End Engineer</h3>
 
-- 🌱 I’m a Computer Science student at the University of Padua.
+- 🌱 I’m a Front-End Engineer at Technology Reply.
 - 🔭 I’m working on projects and attending courses to enhance my skills.
 - 📄 I'm very motivated and a fast learner.
-- ⚡ I'm currently looking for Software Developer Engineer work opportunities to boost my career.
+- ⚡ I'm currently looking for Software Engineer work opportunities to boost my career.
 - 👨🏻‍💻 I’m passionate about Software Engineering and Software Development (especially Mobile).<br>
 
 ---
