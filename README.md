@@ -1,7 +1,7 @@
 <h1 align="center">Hi there!👋🏻<br>I am Filippo Brugnolaro</h1>
-<h3>Front-End Engineer</h3>
+<h3>Software Engineer</h3>
 
-- 🌱 I’m a Front-End Engineer at Technology Reply.
+- 🌱 I’m a Software Engineer at Technology Reply.
 - 🔭 I’m working on projects and attending courses to enhance my skills.
 - 📄 I'm very motivated and a fast learner.
 - ⚡ I'm currently looking for Software Engineer work opportunities to boost my career.
